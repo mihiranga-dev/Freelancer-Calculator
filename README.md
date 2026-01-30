@@ -30,8 +30,7 @@ If you want to run this project locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/mihiranga-dev/Freelancer-Calculator.git](https://github.com/mihiranga-dev/Freelancer-Calculator.git)
-cd Freelancer-Calculator
+git clone https://github.com/mihiranga-dev/Freelancer-Calculator.git
 ```
 
 ### 2. Install Dependencies
