@@ -6,6 +6,8 @@ A full-stack utility application designed for freelancers (Fiverr/Upwork) to acc
 
 **🔗 Live Demo:** [https://freelancer-calczip--mihirangadev.replit.app](https://freelancer-calczip--mihirangadev.replit.app)
 
+![Dashboard Preview](./assets/dashboard.png)
+
 ---
 
 ## ✨ Key Features
